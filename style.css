@@ -12,6 +12,8 @@ body{
     min-height: 100vh;
     background-image: url(./morgan-harper-nichols-OMXPrCAhxrE-unsplash.jpg);
     background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 h1{
@@ -119,5 +121,5 @@ h1{
 }
 
 .remember_me input{
-    accent-color: red;
+    accent-color:white;
 }
